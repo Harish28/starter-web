@@ -4,3 +4,5 @@ Code Python
 Learn java 8
 Learn Matrix
 Learn Node
+Learn design pattern
+Learn system desoign
